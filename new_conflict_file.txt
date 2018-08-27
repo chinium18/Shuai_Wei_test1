@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-This is a new conflict file from the co.
 
-We need to use python. 
-=======
-This is a new conflict file from the or.
+This is a new conflict file agreed by both co and or.
 
-I prefer R. 
->>>>>>> c68b9e898ec13f84f22844d4ee7756df7f2d76e1
+We still keep it with python.
